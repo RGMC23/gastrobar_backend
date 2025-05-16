@@ -11,3 +11,8 @@ require (
 	github.com/shopspring/decimal v1.4.0
 	golang.org/x/crypto v0.37.0
 )
+
+require (
+	github.com/felixge/httpsnoop v1.0.4 // indirect
+	github.com/gorilla/handlers v1.5.2 
+)
